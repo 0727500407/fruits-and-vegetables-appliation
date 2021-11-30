@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FRUITS AND VEGETABLES"</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_open">Close</string>
+    <string name="date1">Code</string>
+    <string name="date2">Country</string>
+
+
+</resources>

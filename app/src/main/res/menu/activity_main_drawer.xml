@@ -1,0 +1,107 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="My Account"
+        android:icon="@drawable/setup">
+    <menu>
+        <item
+            android:id="@+id/dashBoard"
+            android:title="Dash Board"
+            android:icon="@drawable/dash"/>
+        <item
+            android:id="@+id/profile"
+            android:title="Profile"
+            android:icon="@drawable/profile"/>
+    </menu>
+    </item>
+    <item android:title="Set Up"
+        android:icon="@drawable/setup">
+
+        <menu>
+            <item
+                android:id="@+id/products"
+                android:title="Products"
+                android:icon="@drawable/pro"/>
+
+            <item
+
+                android:id="@+id/productsClass"
+                android:title="Products Class"
+                android:icon="@drawable/pro"/>
+
+            <item
+                android:id="@+id/productsForm"
+                android:title="products Form"
+                android:icon="@drawable/pro"/>
+
+
+            <item
+                android:id="@+id/productsCategory"
+                android:title="Products Category"
+                android:icon="@drawable/pro"/>
+
+            <item
+                android:id="@+id/countries"
+                android:title="Countries"
+                android:icon="@drawable/countries"/>
+
+
+
+        </menu>
+    </item>
+
+    <item android:title="Dynamic Data"
+        android:icon="@drawable/setup">
+        <menu>
+            <item
+                android:id="@+id/product1"
+                android:title="Products"
+                android:icon="@drawable/pro"/>
+
+            <item
+                android:id="@+id/buyerList"
+                android:title="Buyer List"
+                android:icon="@drawable/money"/>
+
+            <item
+                android:id="@+id/sellersList"
+                android:title="Sellers List"
+                android:icon="@drawable/money"/>
+
+            <item
+                android:id="@+id/seasons"
+                android:title="Seasons"
+                android:icon="@drawable/sesson"/>
+
+            <item
+                android:id="@+id/marketprie"
+                android:title="Market Price"
+                android:icon="@drawable/money"/>
+            <item
+                android:id="@+id/demandSupplyMetrics"
+                android:title="Demand/Supply Metrics "
+                android:icon="@drawable/pro"/>
+            <item
+                android:id="@+id/aggregator"
+                android:title="Aggregator "
+                android:icon="@drawable/agg"/>
+            <item
+                android:id="@+id/serviceProviders"
+                android:title="Service Providers "
+                android:icon="@drawable/profile"/>
+            <item
+                android:id="@+id/importerRequirements"
+                android:title="Importer Requirements "
+                android:icon="@drawable/pro"/>
+            <item
+                android:id="@+id/exporterRequirement"
+                android:title="Exporter Requirements "
+                android:icon="@drawable/pro"/>
+            </menu>
+             </item>
+               <item
+                   android:id="@+id/log"
+                     android:title="Logout"
+                     android:icon="@drawable/logout">
+               </item>
+               </menu>

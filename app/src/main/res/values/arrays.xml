@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Crust_array">
+        <item>Citrus</item>
+        <item>Leafy Green</item>
+        <item>Tropical and Exotic </item>
+        <item>Legumes</item>
+        <item>Cruciferous</item>
+        <item>Grains</item>
+        <item>Drupe</item>
+        <item>Nuts</item>
+    </string-array>
+
+    <string-array name="spinner2_array">
+        <item>Fresh</item>
+    <item>Frozen</item>
+    <item>Canned</item>
+    <item>Dried</item>
+    </string-array>
+
+    <string-array name="spinner3_array">
+    <item>Fruits</item>
+    <item>Vegetables</item>
+    </string-array>
+
+    <string-array name="spinner20_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="spinner5_array">
+        <item>Citrus</item>
+        <item>Leafy Green</item>
+        <item>Tropical and Exotic </item>
+        <item>Legumes</item>
+        <item>Cruciferous</item>
+        <item>Grains</item>
+        <item>Drupe</item>
+        <item>Nuts</item>
+    </string-array>
+
+    <string-array name="spinner6_array">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+    </string-array>
+
+
+
+    <string-array name="spinner7_array">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+    </string-array>
+
+    <string-array name="spinner8_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+
+</resources>

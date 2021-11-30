@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable-v24/setup.xml" value="0.2" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/add.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/agg.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/countries.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/custom_edit_text_cut.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/dash.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.203125" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.203125" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.203125" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/logout.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/markets.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/money.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/pro.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/profile.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/round.xml" value="0.203125" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/row_category.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/drawable/sesson.xml" value="0.21875" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-large/activity_login.xml" value="0.14" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-large/dashview.xml" value="0.33515625" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-normal/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-normal/dashview.xml" value="0.2234375" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-small/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-small/activity_splash.xml" value="0.184375" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-small/dashview.xml" value="0.184375" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-small/row_category.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-xlarge/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout-xlarge/dashview.xml" value="0.13828125" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/activity_produts_ativity.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/activity_user.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/aggregator.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/aggregatorlist.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/app_bar_main.xml" value="0.21348314606741572" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/buyers.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/buyerslist.xml" value="0.22" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/categorylist.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/classlistc.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/contentdashboard.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countries.xml" value="0.22" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countrylist.xml" value="0.36330935251798563" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countrypro.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countryproduct.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countryproducts.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/countryproductslist.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/dashview.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/demand.xml" value="0.22" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/demandlist.xml" value="0.3580968280467446" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/export.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/exporterlist.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/exportlist.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/exports.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/formlist.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/importlist.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/imports.xml" value="0.30153846153846153" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/importt.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/impotlist.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/logout.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/market.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/marketlist.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/marketp.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/marketprice.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/markets.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/productscategory.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/productsclass.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/productsform.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/productslas.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/produstdialog_layout.xml" value="0.22" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/produtformativity.xml" value="0.24566473988439305" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/profile.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/profilelist.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/providder1list.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/provider.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/providerlist.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/providerr.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/raw_aggregatorr.xml" value="0.5" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_aggregatorr.xml" value="0.4339622641509434" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_buyer.xml" value="0.2" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_category.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_class.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_country.xml" value="0.2803030303030303" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_countrypro.xml" value="0.18" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_demand.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_eporter.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_form.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_import.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_item.xml" value="0.43544857768052514" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_market.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_produt.xml" value="0.33" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_provider.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_season.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_seller.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/row_user.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/season.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/season1.xml" value="0.18" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/seasonlist.xml" value="0.25" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/sellers.xml" value="0.28034682080924855" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/layout/sellerslist.xml" value="0.42747252747252745" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/menu/log.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/X240/AndroidStudioProjects/Junior3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
